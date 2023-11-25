@@ -1,0 +1,4 @@
+repository "2D platform@clfish@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
