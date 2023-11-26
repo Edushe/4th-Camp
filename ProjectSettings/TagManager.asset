@@ -41,15 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: background
-    uniqueID: 1951799007
-    locked: 0
   - name: front
     uniqueID: 3410238197
     locked: 0
   - name: platform
     uniqueID: 2742744397
     locked: 0
+  - name: Ground-grass
+    uniqueID: 1601218559
+    locked: 0
   - name: player
     uniqueID: 1160358175
+    locked: 0
+  - name: background
+    uniqueID: 1951799007
     locked: 0
