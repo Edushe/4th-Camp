@@ -41,15 +41,30 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: TRUEBG
+    uniqueID: 1590237365
+    locked: 0
+  - name: BBBackground
+    uniqueID: 3104114441
+    locked: 0
   - name: background
     uniqueID: 1951799007
     locked: 0
-  - name: front
-    uniqueID: 3410238197
+  - name: bg0
+    uniqueID: 2784128779
     locked: 0
   - name: platform
     uniqueID: 2742744397
     locked: 0
+  - name: front
+    uniqueID: 3410238197
+    locked: 0
+  - name: FRONT
+    uniqueID: 489529675
+    locked: 0
   - name: player
     uniqueID: 1160358175
+    locked: 0
+  - name: shelt
+    uniqueID: 4041595681
     locked: 0
