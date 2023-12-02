@@ -176,7 +176,7 @@ MonoBehaviour:
   jumpForce: 16.5
   hurtBounceForce: 3
   canMove: 1
-  waitTime: 1
+  waitTime: 0
   currentWaitTime: 0
 --- !u!50 &7340149647479606384
 Rigidbody2D:
